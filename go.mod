@@ -31,7 +31,7 @@ require (
 	github.com/mitchellh/osext v0.0.0-20151018003038-5e2d6d41470f // indirect
 	github.com/ncw/swift v1.0.47
 	github.com/opencontainers/go-digest v0.0.0-20170106003457-a6d0ee40d420
-	github.com/opencontainers/image-spec v1.0.0
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/prometheus/client_golang v0.0.0-20180209125602-c332b6f63c06 // indirect
 	github.com/prometheus/client_model v0.0.0-20171117100541-99fa1f4be8e5 // indirect
 	github.com/prometheus/common v0.0.0-20180110214958-89604d197083 // indirect
